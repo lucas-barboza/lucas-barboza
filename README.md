@@ -28,7 +28,7 @@ Sou o Lucas, estou cursando bacharelado em Ciência da Computação na Universid
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-barboza&show_icons=true&theme=radical&title_color=string(#2986cc))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-barboza&layout=compact&theme=radical&title_color=2986cc)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-barboza&layout=compact&theme=radical&title_color=string(#2986cc))
 
 #
 <!--
