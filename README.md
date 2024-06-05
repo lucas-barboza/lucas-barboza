@@ -5,7 +5,7 @@ Sou o Lucas, estou cursando bacharelado em Ciência da Computação na Universid
 ## Alguns fatos sobre mim:
   * 👨🏻‍💻 Na Trybe, descobri o <b>back-end</b> e percebi que gosto muito dos desafios de resolver problemas nessa área.
   * 🤖 Sou muito empolgado em aprender sobre <b>IA</b> e seu comportamento.
-  * 🤔 Meus <b>hobbies</b> são futebol, leitura, aprender coisas aleatórias, jogos online e streaming.
+  * 🤔 Meus <b>hobbies</b> são futebol, leitura, tecnologia, jogos e streaming.
   * 💼 Gosto de estar sempre <b>aprendendo</b> para evoluir pessoalmente e profissionalmente.
   * 💬 Se tiver alguma dúvida, sinta-se à vontade para me chamar para uma conversa.
 
